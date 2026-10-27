@@ -1,0 +1,25 @@
+
+
+{
+
+  "name": "slickdeals-app",
+
+  "version": "1.0.0",
+
+  "private": true,
+
+  "description": "DealNova global shopping app",
+
+  "scripts": {
+
+    "start": "node server.js"
+
+  },
+
+  "engines": {
+
+    "node": ">=20"
+
+  }
+
+}
